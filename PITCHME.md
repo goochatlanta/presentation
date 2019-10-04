@@ -19,6 +19,26 @@
 Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
 
+---?color=linear-gradient(90deg, #5384AD 85%, white 15%)
+@title[Motivating Question]
+
+@snap[north-west h4-white]
+#### Has Mao's Zedong...
+@snapend
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-white text-09]
+- Who was affected?
+- What is the transmission mechanism of the effect?
+- *With a little imagination...*
+- And **GitPitch Markdown**
+@ulend
+@snapend
+
+@snap[east span-45]
+@img[shadow](assets/img/heatmap.png)
+@snapend
+
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[Add A Little Imagination]
 
