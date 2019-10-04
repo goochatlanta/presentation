@@ -1,23 +1,6 @@
-# Let's Get Started - edit
+# Economic Legacy of China's Great Leap Forward (1959-61) 
 
 ---
-## Hello!
-
-+++
-
-## Hola!
-
----
-
-## Goodbye!
-
-+++
-
-## Adiós!
-
----
-
-## Add Some Slide Candy
 
 ![IMAGE](assets/img/chinesepostersnet_canteens.jpg)
 
