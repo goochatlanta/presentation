@@ -12,7 +12,7 @@
 @snapend
 
 @snap[east span-50]
-![IMAGE](assets/img/presentation.png)
+![IMAGE](assets/img/production.png)
 @snapend
 
 @snap[south span-100 text-white]
@@ -36,7 +36,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/conference.png)
+@img[shadow](assets/img/heatmap.png)
 @snapend
 
 ---
@@ -64,7 +64,7 @@ REFERENCES "forum" ("id");
 @snapend
 
 
----?image=assets/img/presenter.jpg
+---?image=assets/img/adventurism.jpg
 
 @snap[north span-100 h2-white]
 ## Now It's Your Turn
