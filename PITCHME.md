@@ -64,7 +64,7 @@ REFERENCES "forum" ("id");
 @snapend
 
 
----?image=assets/img/adventurism.jpg
+---?image=assets/img/adventurism.png
 
 @snap[north span-100 h2-white]
 ## Now It's Your Turn
