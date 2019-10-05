@@ -21,7 +21,7 @@ Elizabeth Gooch, Naval Postgraduate School
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 85%, white 15%)
-@snap[west span-20]
+@snap[west span-40]
 @quote[It's what I do that defines me.](- circa 1959)
 @snapend
 
