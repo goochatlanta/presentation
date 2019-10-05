@@ -1,6 +1,30 @@
-@snap[north-west span-75]
-# Economic Legacy of China's Great Leap Forward (1959-61) 
+---?color=linear-gradient(180deg, white 75%, black 25%)
+@snap[north-west span-95]
+## Economic Legacy of China's Great Leap Forward (1959-61) 
 @snapend
+
+@snap[south span-100 text-white]
+Elizabeth Gooch, Naval Postgraduate School 
+@snapend
+
+---?color=linear-gradient(90deg, #5384AD 85%, white 15%)
+@title[Motivating Question]
+
+@snap[north-west h4-white]
+#### What has been the long-term impact of the Great Leap on development? 
+@snapend
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-white text-09]
+- Who was affected?
+- What is the transmission mechanism of the effect?
+@ulend
+@snapend
+
+@snap[east span-45]
+@img[shadow](assets/img/heatmap.png)
+@snapend
+
 ---
 
 ![IMAGE](assets/img/chinesepostersnet_canteens.jpg)
