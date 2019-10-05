@@ -8,16 +8,15 @@ Elizabeth Gooch, Naval Postgraduate School
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 85%, white 15%)
-@title[Motivating Question]
-
-@snap[north-west h4-white]
-#### What has been the long-term impact of the Great Leap on development? 
+@snap[north-west span-40]
+### Motivating question
 @snapend
 
 @snap[west span-55]
+#### How has the Great Leap affected long-term development?
 @ul[list-spaced-bullets text-white text-09]
 - Who was affected?
-- What is the transmission mechanism of the effect?
+- How were they affected?
 @ulend
 @snapend
 
