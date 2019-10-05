@@ -1,5 +1,6 @@
+@snap[north-west span-75]
 # Economic Legacy of China's Great Leap Forward (1959-61) 
-
+@snapend
 ---
 
 ![IMAGE](assets/img/chinesepostersnet_canteens.jpg)
