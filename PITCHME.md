@@ -8,10 +8,6 @@ Elizabeth Gooch, Naval Postgraduate School
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 85%, white 15%)
-@snap[north-west span-40]
-### Motivating question
-@snapend
-
 @snap[west span-55]
 #### How has the Great Leap affected long-term development?
 @ul[list-spaced-bullets text-white text-09]
@@ -24,9 +20,14 @@ Elizabeth Gooch, Naval Postgraduate School
 @img[shadow](assets/img/heatmap.png)
 @snapend
 
----
+---?color=linear-gradient(90deg, #5384AD 85%, white 15%)
+@snap[west span-25]
+@af[ext-white text-09](quote)
+@snapend
 
-![IMAGE](assets/img/chinesepostersnet_canteens.jpg)
+@snap[east span-75]
+@img[shadow](assets/img/chinesepostersnet_canteens.jpg))
+@snapend
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
