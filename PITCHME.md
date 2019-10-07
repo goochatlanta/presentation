@@ -16,6 +16,10 @@ Elizabeth Gooch, Naval Postgraduate School
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[Steel works]
 
+@snap[north-east]
+Background
+@snapend
+
 @snap[north-west h4-white h5-white span-40]
 #### Great Leap Forward (1958-61) 
 ##### Steel production
