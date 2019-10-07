@@ -29,6 +29,12 @@ Elizabeth Gooch, Naval Postgraduate School
 @img[shadow](assets/img/chinesepostersnet_canteens.jpg)
 @snapend
 
+---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+@title[Spike in industrial output]
+
+@snap[east span-95]
+@img[shadow](assets/img/production.png)
+@snapend
 
 ---?color=linear-gradient(90deg, #5384AD 80%, white 20%)
 @snap[west span-55]
