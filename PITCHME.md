@@ -123,11 +123,9 @@ Elizabeth Gooch, Naval Postgraduate School
 @snapend
 
 @snap[north span-60]
-@math
 `\[
 GDP_{2010}
 \]`
-@mathend
 @snapend
 
 
