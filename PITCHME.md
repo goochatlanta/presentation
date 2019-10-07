@@ -160,7 +160,6 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 - Geo-reference ruggedness: average difference in elevation for between itself and adjacent cells
 - District data: average ruggedness across the district
 @ulend
-Average difference in elevation for between grid cell and adjacent cells
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 85%, white 15%)
