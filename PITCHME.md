@@ -134,11 +134,15 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 @snap[west span-60 text-blue]
 @math
 `\[GLF_j\]`
+`\[r_i\]`
 @mathend 
 @snapend
 
-@snap[east span-60 text-blue]
-measures *adventurism* at the provincial level
+@snap[east span-60]
+@ul[list-spaced-bullets text-blue text-09]
+- measures *adventurism* at the provincial level
+- geo-referenced terrain ruggedness for the district
+@ulend
 @snapend
 
 
