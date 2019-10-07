@@ -103,15 +103,11 @@ Elizabeth Gooch, Naval Postgraduate School
 @img[shadow](assets/img/popgrowthrate.png)
 @snapend
 
----?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+---?color=#5384AD
 @title[Motivating Question]
 
-@snap[north-west h2-white span-60]
-## Motivating question
-@snapend
-
-@snap[west h3-white span-60]
-### How has the Great Leap affected long-term development?
+@snap[west h3-white span-80]
+### How has the Great Leap affected long-term development in China?
 @ul[list-spaced-bullets text-white text-09]
 - Who was affected?
 - How were they affected?
