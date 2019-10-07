@@ -124,6 +124,12 @@ Elizabeth Gooch, Naval Postgraduate School
 GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 \]`
 @mathend
+@ul[list-spaced-bullets text-white text-09]
+- province fixed effects
+- covariates
+- covariates interacted with the *GLF* 
+@ulend
+@snapend
 
 @snap[south span-60]
 @math
