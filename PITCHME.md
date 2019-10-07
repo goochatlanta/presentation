@@ -117,17 +117,14 @@ Elizabeth Gooch, Naval Postgraduate School
 
 ---
 @title[Exogenous variation]
-@snap[north-west span-45]
+@snap[north span-75]
 #### Empirical Framework
 @math[span-45]
 `\[
 GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 \]`
 @mathend
-@snapend
-
-@snap[north-east span-45]
-@ul[list-spaced-bullets text-black text-09]
+@ul[list-spaced-bullets text-black]
 - *GLF* is a proxy measure for *adventurism* at the provincial level
 - *r* is geo-referenced terrain ruggedness for the district
 - *GLF x r* is the exogenous term equivalent to the itention-to-treat effect
@@ -136,6 +133,7 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 - covariates interacted with the *GLF* 
 @ulend
 @snapend
+
 
 ---?color=linear-gradient(90deg, #5384AD 80%, white 20%)
 @snap[west span-55]
