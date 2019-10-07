@@ -141,16 +141,12 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 @ulend
 @snapend
 
----?color=linear-gradient(90deg, #5384AD 85%, white 15%)
-@title[Output inflation
-@snap[west span-40 h4-white]
+---?color=#5384AD 
+@title[Output inflation]
+@snap[north span-70 h4-white]
 #### Average inflation rate of grain output (1959) 
-@snapend
-
-@snap[east span-75]
 @img[shadow](assets/img/adventurism.png)
 @snapend
-
 
 ---?color=linear-gradient(90deg, #5384AD 85%, white 15%)
 @snap[west span-40]
