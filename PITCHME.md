@@ -131,7 +131,7 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 @ulend
 @snapend
 
-@snapwest span-60 text-blue]
+@snapwest span-60]
 @math
 `\[GLF_j\]`
 @mathend 
