@@ -115,7 +115,7 @@ Elizabeth Gooch, Naval Postgraduate School
 @ulend
 @snapend
 
-------?color=linear-gradient(180deg, white 25%, black 75%)
+------?color=linear-gradient(180deg, black 25%, white 75%)
 @title[Exogenous variation]
 @snap[north span-75]
 @math[span-45]
