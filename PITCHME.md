@@ -1,13 +1,14 @@
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @snap[north-west span-95]
-## Economic Legacy of China's Great Leap Forward (1959-61) 
+## Great Leap Legacy 
+###  Development of Modern China
 @snapend
 
 @snap[south span-100 text-white]
 Elizabeth Gooch, Naval Postgraduate School 
 @snapend
 
----?color=linear-gradient(90deg, #5384AD 85%, white 15%)
+---?color=linear-gradient(90deg, #5384AD 80%, white 20%)
 @snap[west span-55]
 #### How has the Great Leap affected long-term development?
 @ul[list-spaced-bullets text-white text-09]
