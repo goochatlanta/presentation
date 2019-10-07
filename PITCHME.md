@@ -16,9 +16,9 @@ Elizabeth Gooch, Naval Postgraduate School
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[Steel works]
 
-@snap[north-west h4-white span-40]
+@snap[north-west h4-white h5-white span-40]
 #### Great Leap Forward (1958-61) 
-#### Steel production
+##### Steel production
 @snapend
 
 @snap[west span-55]
@@ -29,12 +29,45 @@ Elizabeth Gooch, Naval Postgraduate School
 @img[shadow](assets/img/chinesepostersnet_canteens.jpg)
 @snapend
 
----?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+---?color=linear-gradient(90deg, #5384AD )
 @title[Spike in industrial output]
 
-@snap[center span-80]
+@snap[north span-90]
 @img[shadow](assets/img/production.png)
 @snapend
+
+---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+@title[Farming]
+
+@snap[north-west h4-white h5-white span-40]
+#### Great Leap Forward (1958-61) 
+##### Farming and harvests
+@snapend
+
+@snap[south span-55]
+@quote[The future of the rural village](circa 1959)
+@snapend
+
+@snap[north-east span-45]
+@img[shadow](assets/img/chinesepostersnet_canteens.jpg)
+@snapend
+
+---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+@title[Communes]
+
+@snap[north-west h4-white h5-white span-40]
+#### Great Leap Forward (1958-61) 
+##### People's Commune 
+@snapend
+
+@snap[south span-55]
+@quote[The People's Communes](circa 1959)
+@snapend
+
+@snap[north-east span-45]
+@img[shadow](assets/img/chinesepostersnet_canteens.jpg)
+@snapend
+
 
 ---?color=linear-gradient(90deg, #5384AD 80%, white 20%)
 @snap[west span-55]
