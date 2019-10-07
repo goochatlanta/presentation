@@ -197,11 +197,7 @@ Li, Ruojian, 2001, "The Grain Output, Consumption and Flow during the China's GL
 
 ---?color=linear-gradient(90deg, #5384AD 85%, white 15%)
 @snap[west span-40]
-@quote[It's what I do that defines me.](- circa 1959)
-@snapend
-
-@snap[east span-75]
-@img[shadow](assets/img/chinesepostersnet_canteens.jpg))
+@table(assets/img/tables/gdpoutput.csv)
 @snapend
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
