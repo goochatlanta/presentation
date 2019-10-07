@@ -16,10 +16,6 @@ Elizabeth Gooch, Naval Postgraduate School
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[Steel works]
 
-@snap[west 90deg]
-Background
-@snapend
-
 @snap[north-west h4-white h5-white span-40]
 #### Great Leap Forward (1958-61) 
 ##### Steel production
@@ -105,6 +101,21 @@ Background
 
 @snap[north span-90]
 @img[shadow](assets/img/popgrowthrate.png)
+@snapend
+
+---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+@title[Motivating Question]
+
+@snap[north-west h2-white span-60]
+## Motivating question
+@snapend
+
+@snap[west h3-white span-60]
+### How has the Great Leap affected long-term development?
+@ul[list-spaced-bullets text-white text-09]
+- Who was affected?
+- How were they affected?
+@ulend
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 80%, white 20%)
