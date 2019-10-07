@@ -18,15 +18,15 @@ Elizabeth Gooch, Naval Postgraduate School
 
 @snap[north-west h4-white span-40]
 #### Great Leap Forward (1958-61) 
-##### Steel production
+#### Steel production
 @snapend
 
 @snap[west span-55]
-@quote[We and ore together make steel!](- circa 1959)
+@quote[We and ore together make steel!](circa 1959)
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/chineseposternet_canteens.jpg)
+@img[shadow](assets/img/chinesepostersnet_canteens.jpg)
 @snapend
 
 
