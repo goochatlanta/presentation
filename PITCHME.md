@@ -124,11 +124,15 @@ Elizabeth Gooch, Naval Postgraduate School
 GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 \]`
 @mathend
-where 
+
+@snap[west span-60]
 @math
 `\[GLF_j\]`
 @mathend 
-is a measure
+@snapend
+
+@snap[east span-60]
+measures *adventurism* at the provincial level
 @snapend
 
 
