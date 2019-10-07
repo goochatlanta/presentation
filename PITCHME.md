@@ -118,13 +118,15 @@ Elizabeth Gooch, Naval Postgraduate School
 ---
 @title[Exogenous variation]
 
-@snap[north-east h4-#5384AD span-95]
+@snap[north-east h4-#5384AD span-30]
 #### Empirical Framework 
 @snapend
 
 @snap[north span-60]
 @math
+`\[
 GDP_{2010}
+\]`
 @mathend
 @snapend
 
