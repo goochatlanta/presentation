@@ -119,7 +119,7 @@ Elizabeth Gooch, Naval Postgraduate School
 @title[Exogenous variation]
 @snap[north-west span-45]
 #### Empirical Framework
-@math
+@math[span-45]
 `\[
 GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 \]`
