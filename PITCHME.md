@@ -126,7 +126,7 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 @snapend
 
 @snap[south-west span-65]
-@ul[list-spaced-bullets text-white text-05]
+@ul[list-spaced-bullets text-white text-07]
 - *GLF* is a proxy measure for *adventurism* at the provincial level
 - *r* is geo-referenced terrain ruggedness for the district
 - *GLF x r* is the exogenous term equivalent to the itention-to-treat effect
@@ -134,7 +134,7 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 @snapend
 
 @snap[south-east span-30]
-@ul[list-spaced-bullets text-white text-05]
+@ul[list-spaced-bullets text-white text-07]
 - province fixed effects
 - covariates
 - covariates interacted with the *GLF* 
