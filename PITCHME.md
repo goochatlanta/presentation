@@ -26,10 +26,10 @@ Elizabeth Gooch, Naval Postgraduate School
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/chinesepostersnet_canteens.jpg)
+@img[shadow](assets/img/chinesepostersnet_weoresteel.jpg)
 @snapend
 
----?color=linear-gradient(#5384AD 100%)
+---?color=#5384AD
 @title[Spike in industrial output]
 
 @snap[north span-90]
@@ -49,7 +49,7 @@ Elizabeth Gooch, Naval Postgraduate School
 @snapend
 
 @snap[north-east span-45]
-@img[shadow](assets/img/chinesepostersnet_canteens.jpg)
+@img[shadow](assets/img/chinesepostersnet_ruralfuture.jpg)
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
@@ -61,11 +61,11 @@ Elizabeth Gooch, Naval Postgraduate School
 @snapend
 
 @snap[south span-55]
-@quote[The People's Communes](circa 1959)
+@quote[The People's Communes are good](circa 1959)
 @snapend
 
 @snap[north-east span-45]
-@img[shadow](assets/img/chinesepostersnet_canteens.jpg)
+@img[shadow](assets/img/chinesepostersnet_communesgood.jpg)
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
@@ -77,7 +77,7 @@ Elizabeth Gooch, Naval Postgraduate School
 @snapend
 
 @snap[east span-55]
-@img[shadow](assets/img/chinesepostersnet_canteens.jpg)
+@img[shadow](assets/img/dams.png)
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
@@ -89,18 +89,18 @@ Elizabeth Gooch, Naval Postgraduate School
 @snapend
 
 @snap[south span-55]
-@quote[The People's Communes](circa 1959)
+@quote[The commune's canteen is powerful, the dishes are deliciously made. You eat like you wish, production ambitions are rising](circa 1959)
 @snapend
 
 @snap[north-east span-45]
 @img[shadow](assets/img/chinesepostersnet_canteens.jpg)
 @snapend
 
----?color=linear-gradient(#5384AD 100%)
+---?color=#5384AD
 @title[Toll on well-being]
 
 @snap[north span-90]
-@img[shadow](assets/img/deathtoll.png)
+@img[shadow](assets/img/popgrowthrate.png)
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 80%, white 20%)
