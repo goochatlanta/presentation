@@ -124,29 +124,20 @@ Elizabeth Gooch, Naval Postgraduate School
 GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 \]`
 @mathend
-@ul[list-spaced-bullets text-white text-09]
+@ul[list-spaced-bullets text-black text-09]
 - province fixed effects
 - covariates
 - covariates interacted with the *GLF* 
 @ulend
 @snapend
 
-@snap[west span-60 text-blue]
+@snap[center span-60 text-blue]
 @math
-`\[GLF_j\]` what tis this
-`\[r_i\]`
-`\[GLF_j \times r_i\]`
+`\[GLF_j\]` measures *adventurism* at the provincial level
+`\[r_i\]` geo-referenced terrain ruggedness for the district
+`\[GLF_j \times r_i\]` exogenous term equivalent to the itention-to-treat effect
 @mathend 
 @snapend
-
-@snap[east span-60]
-@ul[list-spaced-bullets text-blue text-09]
-- measures *adventurism* at the provincial level
-- geo-referenced terrain ruggedness for the district
-- exogenous term equivalent to the itention-to-treat effect
-@ulend
-@snapend
-
 
 ---?color=linear-gradient(90deg, #5384AD 80%, white 20%)
 @snap[west span-55]
