@@ -32,7 +32,7 @@ Elizabeth Gooch, Naval Postgraduate School
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[Spike in industrial output]
 
-@snap[span-80]
+@snap[center span-80]
 @img[shadow](assets/img/production.png)
 @snapend
 
