@@ -1,5 +1,5 @@
 ---?color=linear-gradient(180deg, white 75%, black 25%)
-@snap[north-west span-50]
+@snap[north-west h2-#5384AD span-50]
 ## Great Leap Legacy 
 ###  Development of Modern China
 @snapend
@@ -29,7 +29,7 @@ Elizabeth Gooch, Naval Postgraduate School
 @img[shadow](assets/img/chinesepostersnet_canteens.jpg)
 @snapend
 
----?color=linear-gradient(90deg, #5384AD )
+---?color=linear-gradient(#5384AD 100%)
 @title[Spike in industrial output]
 
 @snap[north span-90]
@@ -68,6 +68,40 @@ Elizabeth Gooch, Naval Postgraduate School
 @img[shadow](assets/img/chinesepostersnet_canteens.jpg)
 @snapend
 
+---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+@title[Dams]
+
+@snap[north-west h4-white h5-white span-40]
+#### Great Leap Forward (1958-61) 
+##### Labor mobilization
+@snapend
+
+@snap[east span-55]
+@img[shadow](assets/img/chinesepostersnet_canteens.jpg)
+@snapend
+
+---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+@title[Canteens]
+
+@snap[north-west h4-white h5-white span-40]
+#### Great Leap Forward (1958-61) 
+##### Canteens on People's Communes 
+@snapend
+
+@snap[south span-55]
+@quote[The People's Communes](circa 1959)
+@snapend
+
+@snap[north-east span-45]
+@img[shadow](assets/img/chinesepostersnet_canteens.jpg)
+@snapend
+
+---?color=linear-gradient(#5384AD 100%)
+@title[Toll on well-being]
+
+@snap[north span-90]
+@img[shadow](assets/img/deathtoll.png)
+@snapend
 
 ---?color=linear-gradient(90deg, #5384AD 80%, white 20%)
 @snap[west span-55]
