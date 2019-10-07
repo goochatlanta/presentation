@@ -1,10 +1,10 @@
 ---?color=linear-gradient(180deg, white 75%, black 25%)
-@snap[north-west span-95]
+@snap[north-west span-50]
 ## Great Leap Legacy 
 ###  Development of Modern China
 @snapend
 
-@snap[east span-95]
+@snap[north-east span-40]
 ####  University of Victoria 
 #### Oct. 31, 2019
 @snapend
