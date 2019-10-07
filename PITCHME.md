@@ -103,16 +103,31 @@ Elizabeth Gooch, Naval Postgraduate School
 @img[shadow](assets/img/popgrowthrate.png)
 @snapend
 
----?color=#5384AD
+---?color=linear-gradient(90deg, #5384AD 80%, white 20%)
 @title[Motivating Question]
 
-@snap[west h3-white span-80]
+@snap[west h3-white span-95]
 ### How has the Great Leap affected long-term development in China?
 @ul[list-spaced-bullets text-white text-09]
-- Who was affected?
-- How were they affected?
+- What is the scale of the impact?
+- In what ways did the Leap impact development?
+- Who was most affected?
 @ulend
 @snapend
+
+---
+@title[Exogenous variation]
+
+@snap[north-east h4-#5384AD span-95]
+#### Empirical Framework 
+@snapend
+
+@snap[north span-60]
+@math
+GDP_{2010}
+@mathend
+@snapend
+
 
 ---?color=linear-gradient(90deg, #5384AD 80%, white 20%)
 @snap[west span-55]
