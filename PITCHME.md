@@ -4,7 +4,7 @@
 ###  Development of Modern China
 @snapend
 
-@snap[center span-40]
+@snap[east span-95]
 ####  University of Victoria 
 #### Oct. 31, 2019
 @snapend
