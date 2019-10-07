@@ -133,8 +133,9 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 
 @snap[west span-60 text-blue]
 @math
-`\[GLF_j\]`
+`\[GLF_j\]` what tis this
 `\[r_i\]`
+`\[GLF_j \times r_i\]`
 @mathend 
 @snapend
 
@@ -142,6 +143,7 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 @ul[list-spaced-bullets text-blue text-09]
 - measures *adventurism* at the provincial level
 - geo-referenced terrain ruggedness for the district
+- exogenous term equivalent to the itention-to-treat effect
 @ulend
 @snapend
 
