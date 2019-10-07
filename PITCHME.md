@@ -148,6 +148,10 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 @img[shadow](assets/img/adventurism.png)
 @snapend
 
+@snap[south span-95 text-white text-05]
+Li, Ruojian, 2001, "The Grain Output, Consumption and Flow during the China's GLF", Journal of Sun Yatsen University, 6, 123-132.
+@snapend
+
 ---?color=black
 @title[Ruggedness]
 @snap[north span-80 h4-white]
@@ -160,6 +164,35 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 - Geo-reference ruggedness: average difference in elevation for between itself and adjacent cells
 - District data: average ruggedness across the district
 @ulend
+@snapend
+
+---?color=linear-gradient(90deg, #5384AD 80%, white 20%)
+@title[Covariates]
+
+@snap[west h3-white span-95]
+#### Covariates
+@ul[list-spaced-bullets text-white text-09]
+- Population density, 1958
+- Agricultural suitability 
+- Urban share, 1950
+- Relative important of district by population 1958
+- Relative important of distrcit by ag. suitability, 1958
+@ulend
+@snapend
+
+---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+@title[Sample]
+
+@snap[north-west h4-white h5-white span-40]
+#### Sample
+@snapend
+
+@snap[south span-35]
+200 fu based on the 1820 zhou
+@snapend
+
+@snap[north-east span-55]
+@img[shadow](assets/img/basicmap_popout.png)
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 85%, white 15%)
