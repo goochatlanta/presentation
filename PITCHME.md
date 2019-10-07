@@ -118,12 +118,12 @@ Elizabeth Gooch, Naval Postgraduate School
 ---
 @title[Exogenous variation]
 @snap[north span-95]
-#### Empirical Framework
+@box[bg-gold text-white rounded box-padding](#### Empirical Framework
 @math
 `\[
 GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 \]`
-@mathend
+@mathend)
 @ul[list-spaced-bullets text-black text-09]
 - province fixed effects
 - covariates
