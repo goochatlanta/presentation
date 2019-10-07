@@ -150,9 +150,13 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 
 ---?color=black
 @title[Ruggedness]
-@snap[north span-70 h4-white]
+@snap[north span-80 h4-white]
 #### Terrain ruggedness 
 @img[shadow](assets/img/ruggedness.png)
+@snapend
+
+@snap[south span-80 text-white text-07]
+Average difference in elevation for between grid cell and adjacent cells
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 85%, white 15%)
