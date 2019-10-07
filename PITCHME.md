@@ -141,18 +141,16 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 @ulend
 @snapend
 
----?color=linear-gradient(90deg, #5384AD 80%, white 20%)
-@snap[west span-55]
-#### How has the Great Leap affected long-term development?
-@ul[list-spaced-bullets text-white text-09]
-- Who was affected?
-- How were they affected?
-@ulend
+---?color=linear-gradient(90deg, #5384AD 85%, white 15%)
+@title[Output inflation
+@snap[west span-40]
+Average inflation rate of grain output (1959) 
 @snapend
 
-@snap[east span-45]
-@img[shadow](assets/img/heatmap.png)
+@snap[east span-75]
+@img[shadow](assets/img/adventurism.jpg)
 @snapend
+
 
 ---?color=linear-gradient(90deg, #5384AD 85%, white 15%)
 @snap[west span-40]
