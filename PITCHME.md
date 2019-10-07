@@ -117,13 +117,16 @@ Elizabeth Gooch, Naval Postgraduate School
 
 ---
 @title[Exogenous variation]
-@snap[north span-95]
+@snap[north-west span-50]
 #### Empirical Framework
 @math
 `\[
 GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 \]`
 @mathend
+@snapend
+
+@snap[north-east
 @ul[list-spaced-bullets text-black text-09]
 - province fixed effects
 - covariates
@@ -137,13 +140,13 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 @mathend 
 @snapend
 
-@snap[south-west span-33 text-red]
+@snap[south span-33 text-red]
 @math
 `\[r_i\]` geo-referenced terrain ruggedness for the district
 @mathend 
 @snapend
 
-@snap[south-west span-33 text-green]
+@snap[south-east span-33 text-green]
 @math
 `\[GLF_j \times r_i\]` exogenous term equivalent to the itention-to-treat effect
 @mathend 
