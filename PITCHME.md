@@ -144,8 +144,15 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 ---?color=#5384AD 
 @title[Output inflation]
 @snap[north span-70 h4-white]
-#### Average inflation rate of grain output (1959) 
+#### Proxy measure of *GLF* 
 @img[shadow](assets/img/adventurism.png)
+@snapend
+
+---?color=black
+@title[Ruggedness]
+@snap[north span-70 h4-white]
+#### Terrain ruggedness 
+@img[shadow](assets/img/ruggedness.png)
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 85%, white 15%)
