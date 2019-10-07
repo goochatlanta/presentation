@@ -13,6 +13,23 @@
 Elizabeth Gooch, Naval Postgraduate School 
 @snapend
 
+---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+@title[Steel works]
+
+@snap[north-west h4-white span-40]
+#### Great Leap Forward (1958-61) 
+##### Steel production
+@snapend
+
+@snap[west span-55]
+@quote[We and ore together make steel!](- circa 1959)
+@snapend
+
+@snap[east span-45]
+@img[shadow](assets/img/chineseposternet_canteens.jpg)
+@snapend
+
+
 ---?color=linear-gradient(90deg, #5384AD 80%, white 20%)
 @snap[west span-55]
 #### How has the Great Leap affected long-term development?
