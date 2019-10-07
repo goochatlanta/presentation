@@ -125,13 +125,13 @@ GDP_{2010} = GLF_j+r_i+GLF_j \times r_i
 \]`
 @mathend
 
-@snap[south-west span-60]
+@snap[south span-60]
 @math
 `\[GLF_j\]`
 @mathend 
 @snapend
 
-@snap[south-east span-60]
+@snap[south span-60]
 measures *adventurism* at the provincial level
 @snapend
 
