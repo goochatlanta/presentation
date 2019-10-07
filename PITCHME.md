@@ -4,13 +4,13 @@
 ###  Development of Modern China
 @snapend
 
-@snap[north-west span-95]
+@snap[center span-40]
 ####  University of Victoria 
 #### Oct. 31, 2019
 @snapend
 
 @snap[south span-100 text-white]
-#### Elizabeth Gooch, Naval Postgraduate School 
+Elizabeth Gooch, Naval Postgraduate School 
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 80%, white 20%)
