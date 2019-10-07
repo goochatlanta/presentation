@@ -123,11 +123,13 @@ Elizabeth Gooch, Naval Postgraduate School
 @snapend
 
 @snap[north span-60]
+#### Empirical Framework
 @math
 `\[
-GDP_{2010}
+GDP_{2010} = GLF_j+r_i+GLF_j\timesr_i
 \]`
 @mathend
+where @math`\[GLF_j\]`@mathend is a measure
 @snapend
 
 
